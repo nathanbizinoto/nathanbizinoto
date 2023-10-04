@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **Pyhton and Javascrpit**
 
 - 📫 How to reach me:
--**nathanbizinoto17@gmail.com**
-  **https://www.linkedin.com/in/nathan-b-1b4783128/**
+**nathanbizinoto17@gmail.com** or **https://www.linkedin.com/in/nathan-b-1b4783128/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
