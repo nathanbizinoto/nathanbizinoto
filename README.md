@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A Software Development Student @ Fatec Franca</h3>
 
-- 🌱 I’m currently learning **Pyhton and Javascrpit**
+- 🌱 I’m currently learning **Python and Javascrpit**
 
 - 📫 How to reach me:
 **nathanbizinoto17@gmail.com** or **https://www.linkedin.com/in/nathan-b-1b4783128/**
